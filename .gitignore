@@ -9,3 +9,7 @@
 .vs/CampusNavigation/v16/Browse.VC.db-wal
 *.opendb
 *.db
+*.db
+/.vs/CampusNavigation/v16
+/.vs/CampusNavigation
+/.vs
