@@ -1,3 +1,11 @@
 
 *.pch
 *.ipch
+*.db
+*.db
+.vs/CampusNavigation/v16/Browse.VC.db
+*.db
+.vs/CampusNavigation/v16/Browse.VC.db
+.vs/CampusNavigation/v16/Browse.VC.db-wal
+*.opendb
+*.db
