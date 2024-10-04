@@ -28,6 +28,14 @@
 			"Type": "Executable"
 		},
 		{
+			"Path": "$(ProjectDir)/Plugins/AsyncFuncCaller-master/Binaries/Win64/UE4Editor-AsyncFuncCaller.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/AsyncFuncCaller-master/Binaries/Win64/UE4Editor-AsyncFuncCaller.pdb",
+			"Type": "SymbolFile"
+		},
+		{
 			"Path": "$(ProjectDir)/Plugins/MysqlDBUnrealengine4.26-main/Binaries/Win64/UE4Editor-MySQLConnectorUE4Plugin.dll",
 			"Type": "DynamicLibrary"
 		},
@@ -2248,6 +2256,10 @@
 			"Type": "RequiredResource"
 		},
 		{
+			"Path": "$(ProjectDir)/Plugins/AsyncFuncCaller-master/Binaries/Win64/UE4Editor.modules",
+			"Type": "RequiredResource"
+		},
+		{
 			"Path": "$(ProjectDir)/Plugins/MysqlDBUnrealengine4.26-main/Binaries/Win64/UE4Editor.modules",
 			"Type": "RequiredResource"
 		},
@@ -2683,6 +2695,10 @@
 	"RuntimeDependencies": [
 		{
 			"Path": "$(ProjectDir)/CampusNavigation.uproject",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/AsyncFuncCaller-master/AsyncFuncCaller.uplugin",
 			"Type": "UFS"
 		},
 		{
