@@ -1,22 +1,17 @@
 ﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Unreal Projects\CampusNavigation).
+  Waiting for 'git status' command to complete
   Parsing headers for CampusNavigationEditor
     Running UnrealHeaderTool "C:\Unreal Projects\CampusNavigation\CampusNavigation.uproject" "C:\Unreal Projects\CampusNavigation\Intermediate\Build\Win64\CampusNavigationEditor\Development\CampusNavigationEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\denis\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
-  Reflection code generated for CampusNavigationEditor in 4.5914783 seconds
-  Deleted hot-reload file: C:\Unreal Projects\CampusNavigation\Plugins\MysqlDBUnrealengine4.26-main\Binaries\Win64\UE4Editor-MySQLConnectorUE4Plugin-0001.dll
-  Deleted hot-reload file: C:\Unreal Projects\CampusNavigation\Plugins\MysqlDBUnrealengine4.26-main\Intermediate\Build\Win64\UE4Editor\Development\MySQLConnectorUE4Plugin\UE4Editor-MySQLConnectorUE4Plugin-0001.lib
+  Reflection code generated for CampusNavigationEditor in 4.366284 seconds
   Building CampusNavigationEditor...
   Using Visual Studio 2019 14.29.30154 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Building 7 actions with 8 processes...
-    [1/7] UE4Editor-CampusNavigation.lib
-       Creating library C:\Unreal Projects\CampusNavigation\Intermediate\Build\Win64\UE4Editor\Development\CampusNavigation\UE4Editor-CampusNavigation.lib and object C:\Unreal Projects\CampusNavigation\Intermediate\Build\Win64\UE4Editor\Development\CampusNavigation\UE4Editor-CampusNavigation.exp
-    [2/7] UE4Editor-CampusNavigation.dll
-       Creating library C:\Unreal Projects\CampusNavigation\Intermediate\Build\Win64\UE4Editor\Development\CampusNavigation\UE4Editor-CampusNavigation.suppressed.lib and object C:\Unreal Projects\CampusNavigation\Intermediate\Build\Win64\UE4Editor\Development\CampusNavigation\UE4Editor-CampusNavigation.suppressed.exp
-    [3/7] Module.MySQLConnectorUE4Plugin.gen.cpp
-    [4/7] Module.MySQLConnectorUE4Plugin.cpp
-    [5/7] UE4Editor-MySQLConnectorUE4Plugin.lib
+  Building 5 actions with 8 processes...
+    [1/5] Module.MySQLConnectorUE4Plugin.gen.cpp
+    [2/5] Module.MySQLConnectorUE4Plugin.cpp
+    [3/5] UE4Editor-MySQLConnectorUE4Plugin.lib
        Creating library C:\Unreal Projects\CampusNavigation\Plugins\MysqlDBUnrealengine4.26-main\Intermediate\Build\Win64\UE4Editor\Development\MySQLConnectorUE4Plugin\UE4Editor-MySQLConnectorUE4Plugin.lib and object C:\Unreal Projects\CampusNavigation\Plugins\MysqlDBUnrealengine4.26-main\Intermediate\Build\Win64\UE4Editor\Development\MySQLConnectorUE4Plugin\UE4Editor-MySQLConnectorUE4Plugin.exp
-    [6/7] UE4Editor-MySQLConnectorUE4Plugin.dll
+    [4/5] UE4Editor-MySQLConnectorUE4Plugin.dll
        Creating library C:\Unreal Projects\CampusNavigation\Plugins\MysqlDBUnrealengine4.26-main\Intermediate\Build\Win64\UE4Editor\Development\MySQLConnectorUE4Plugin\UE4Editor-MySQLConnectorUE4Plugin.suppressed.lib and object C:\Unreal Projects\CampusNavigation\Plugins\MysqlDBUnrealengine4.26-main\Intermediate\Build\Win64\UE4Editor\Development\MySQLConnectorUE4Plugin\UE4Editor-MySQLConnectorUE4Plugin.suppressed.exp
-    [7/7] CampusNavigationEditor.target
-  Total time in Parallel executor: 10.11 seconds
-  Total execution time: 15.60 seconds
+    [5/5] CampusNavigationEditor.target
+  Total time in Parallel executor: 11.92 seconds
+  Total execution time: 19.61 seconds

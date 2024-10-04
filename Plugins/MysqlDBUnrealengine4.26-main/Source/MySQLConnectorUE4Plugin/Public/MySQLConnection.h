@@ -7,7 +7,7 @@
 /**
 * SQLite main database class.
 */
-UCLASS()
+UCLASS(Blueprintable)
 class MYSQLCONNECTORUE4PLUGIN_API UMySQLConnection : public UObject
 {
 	GENERATED_UCLASS_BODY()    
