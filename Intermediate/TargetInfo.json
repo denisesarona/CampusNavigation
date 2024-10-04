@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CampusNavigation",
+			"Path": "C:\\Unreal Projects\\CampusNavigation\\Source\\CampusNavigation.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CampusNavigationEditor",
+			"Path": "C:\\Unreal Projects\\CampusNavigation\\Source\\CampusNavigationEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
