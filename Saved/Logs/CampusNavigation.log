@@ -844,3 +844,512 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.10.04-13.36.26:678][  2]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2024.10.04-13.36.40:442][828]LogSlate: Window 'Message Log' being destroyed
 [2024.10.04-13.36.40:449][828]LogSlate: Window 'Message Log' being destroyed
+[2024.10.04-13.37.07:785][237]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2024.10.04-13.37.13:376][552]LogSlate: Window 'Plugins' being destroyed
+[2024.10.04-13.37.13:384][552]LogSlate: Window 'Plugins' being destroyed
+[2024.10.04-13.37.13:385][552]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2024.10.04-13.37.13:385][552]LogDirectoryWatcher: A directory notification for '../../../../../../Unreal Projects/CampusNavigation/Plugins/' was aborted.
+[2024.10.04-13.37.27:247][ 98]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [C:/Unreal Projects/CampusNavigation/Saved/Config/Windows/Scalability.ini]
+[2024.10.04-13.37.27:247][ 98]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:2]]
+[2024.10.04-13.37.27:247][ 98]LogConfig: Setting CVar [[r.ViewDistanceScale:0.4]]
+[2024.10.04-13.37.27:247][ 98]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [C:/Unreal Projects/CampusNavigation/Saved/Config/Windows/Scalability.ini]
+[2024.10.04-13.37.27:247][ 98]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2024.10.04-13.37.27:247][ 98]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [C:/Unreal Projects/CampusNavigation/Saved/Config/Windows/Scalability.ini]
+[2024.10.04-13.37.27:247][ 98]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2024.10.04-13.37.27:247][ 98]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2024.10.04-13.37.27:247][ 98]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2024.10.04-13.37.27:247][ 98]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2024.10.04-13.37.27:248][ 98]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:512]]
+[2024.10.04-13.37.27:248][ 98]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2024.10.04-13.37.27:248][ 98]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2024.10.04-13.37.27:248][ 98]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2024.10.04-13.37.27:248][ 98]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2024.10.04-13.37.27:248][ 98]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2024.10.04-13.37.27:248][ 98]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2024.10.04-13.37.27:248][ 98]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2024.10.04-13.37.27:248][ 98]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:0]]
+[2024.10.04-13.37.27:248][ 98]LogConfig: Setting CVar [[r.CapsuleShadows:0]]
+[2024.10.04-13.37.27:248][ 98]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [C:/Unreal Projects/CampusNavigation/Saved/Config/Windows/Scalability.ini]
+[2024.10.04-13.37.27:248][ 98]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2024.10.04-13.37.27:248][ 98]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2024.10.04-13.37.27:248][ 98]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2024.10.04-13.37.27:248][ 98]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2024.10.04-13.37.27:248][ 98]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2024.10.04-13.37.27:248][ 98]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2024.10.04-13.37.27:248][ 98]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2024.10.04-13.37.27:248][ 98]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2024.10.04-13.37.27:248][ 98]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2024.10.04-13.37.27:248][ 98]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.10.04-13.37.27:248][ 98]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2024.10.04-13.37.27:248][ 98]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2024.10.04-13.37.27:248][ 98]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2024.10.04-13.37.27:248][ 98]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2024.10.04-13.37.27:248][ 98]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2024.10.04-13.37.27:248][ 98]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2024.10.04-13.37.27:248][ 98]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2024.10.04-13.37.27:248][ 98]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [C:/Unreal Projects/CampusNavigation/Saved/Config/Windows/Scalability.ini]
+[2024.10.04-13.37.27:248][ 98]LogConfig: Setting CVar [[r.Streaming.MipBias:16]]
+[2024.10.04-13.37.27:248][ 98]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2024.10.04-13.37.27:248][ 98]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2024.10.04-13.37.27:248][ 98]LogConfig: Setting CVar [[r.Streaming.Boost:0.3]]
+[2024.10.04-13.37.27:248][ 98]LogConfig: Setting CVar [[r.MaxAnisotropy:0]]
+[2024.10.04-13.37.27:248][ 98]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:4]]
+[2024.10.04-13.37.27:248][ 98]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2024.10.04-13.37.27:248][ 98]LogConfig: Setting CVar [[r.Streaming.PoolSize:400]]
+[2024.10.04-13.37.27:248][ 98]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.10.04-13.37.27:248][ 98]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [C:/Unreal Projects/CampusNavigation/Saved/Config/Windows/Scalability.ini]
+[2024.10.04-13.37.27:248][ 98]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2024.10.04-13.37.27:248][ 98]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2024.10.04-13.37.27:248][ 98]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2024.10.04-13.37.27:248][ 98]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2024.10.04-13.37.27:249][ 98]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2024.10.04-13.37.27:249][ 98]LogConfig: Setting CVar [[r.DetailMode:0]]
+[2024.10.04-13.37.27:249][ 98]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2024.10.04-13.37.27:249][ 98]LogConfig: Setting CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2024.10.04-13.37.27:249][ 98]LogConfig: Setting CVar [[r.AnisotropicMaterials:0]]
+[2024.10.04-13.37.27:249][ 98]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2024.10.04-13.37.27:249][ 98]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2024.10.04-13.37.27:249][ 98]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2024.10.04-13.37.27:249][ 98]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2024.10.04-13.37.27:249][ 98]LogConfig: Setting CVar [[r.SSGI.Quality:0]]
+[2024.10.04-13.37.27:249][ 98]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2024.10.04-13.37.27:249][ 98]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2024.10.04-13.37.27:249][ 98]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.10.04-13.37.27:249][ 98]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2024.10.04-13.37.27:249][ 98]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:8.0]]
+[2024.10.04-13.37.27:249][ 98]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.10.04-13.37.27:249][ 98]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:2.0]]
+[2024.10.04-13.37.27:249][ 98]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:16.0]]
+[2024.10.04-13.37.27:249][ 98]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:2.0]]
+[2024.10.04-13.37.27:249][ 98]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:16.0]]
+[2024.10.04-13.37.27:249][ 98]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:1]]
+[2024.10.04-13.37.27:249][ 98]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.10.04-13.37.27:249][ 98]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.10.04-13.37.27:249][ 98]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:0]]
+[2024.10.04-13.37.27:249][ 98]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:0]]
+[2024.10.04-13.37.27:249][ 98]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [C:/Unreal Projects/CampusNavigation/Saved/Config/Windows/Scalability.ini]
+[2024.10.04-13.37.27:249][ 98]LogConfig: Setting CVar [[foliage.DensityScale:0]]
+[2024.10.04-13.37.27:249][ 98]LogConfig: Setting CVar [[grass.DensityScale:0]]
+[2024.10.04-13.37.27:249][ 98]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [C:/Unreal Projects/CampusNavigation/Saved/Config/Windows/Scalability.ini]
+[2024.10.04-13.37.27:249][ 98]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.10.04-13.37.27:249][ 98]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.10.04-13.37.27:249][ 98]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2024.10.04-13.37.27:321][100]LogRenderer: Reallocating scene render targets to support 972x292 Format 9 NumSamples 1 (Frame:1823).
+[2024.10.04-13.37.27:349][100]LogContentStreaming: Texture pool size now 400 MB
+[2024.10.04-13.37.42:111][951]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.10.04-13.37.42:721][981]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Level/MainLevel.MainLevel:PersistentLevel.MainLevel
+[2024.10.04-13.37.42:968][981]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2024.10.04-13.37.43:792][981]LogSlate: Took 0.000407 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.10.04-13.37.43:829][982]LogSlate: Took 0.000278 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.10.04-13.39.37:955][635]LogSlate: Took 0.018679 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.10.04-13.42.37:015][731]BlueprintLog: New page: Compile MainLevel
+[2024.10.04-13.42.37:078][731]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2024.10.04-13.43.20:200][549]LogSlate: Took 0.000828 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.10.04-13.43.56:706][574]BlueprintLog: New page: Compile MainLevel
+[2024.10.04-13.43.56:755][574]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2024.10.04-13.43.57:206][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainLevel" FILE="../../../../../../Unreal Projects/CampusNavigation/Content/Level/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.04-13.43.57:228][592]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2024.10.04-13.43.57:324][592]LogSavePackage: Moving '../../../../../../Unreal Projects/CampusNavigation/Saved/MainLevelD91CD8774AA4FB8365E7CD88998CB316.tmp' to '../../../../../../Unreal Projects/CampusNavigation/Content/Level/MainLevel.umap'
+[2024.10.04-13.43.57:329][592]LogFileHelpers: Saving map 'MainLevel' took 0.124
+[2024.10.04-13.43.57:349][592]AssetCheck: New page: Asset Save: MainLevel
+[2024.10.04-13.43.57:349][592]LogContentValidation: Display: Validating World /Game/Level/MainLevel.MainLevel
+[2024.10.04-13.44.18:299][ 24]BlueprintLog: New page: Compile MainLevel
+[2024.10.04-13.44.18:353][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2024.10.04-13.44.18:789][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainLevel" FILE="../../../../../../Unreal Projects/CampusNavigation/Content/Level/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.04-13.44.18:815][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2024.10.04-13.44.18:938][ 42]LogSavePackage: Moving '../../../../../../Unreal Projects/CampusNavigation/Saved/MainLevel8CA164D34D88214640FE998DC3466916.tmp' to '../../../../../../Unreal Projects/CampusNavigation/Content/Level/MainLevel.umap'
+[2024.10.04-13.44.18:943][ 42]LogFileHelpers: Saving map 'MainLevel' took 0.154
+[2024.10.04-13.44.18:963][ 42]AssetCheck: New page: Asset Save: MainLevel
+[2024.10.04-13.44.18:963][ 42]LogContentValidation: Display: Validating World /Game/Level/MainLevel.MainLevel
+[2024.10.04-13.46.04:750][440]BlueprintLog: New page: Compile MainLevel
+[2024.10.04-13.46.04:796][440]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2024.10.04-13.46.05:440][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainLevel" FILE="../../../../../../Unreal Projects/CampusNavigation/Content/Level/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.04-13.46.05:463][472]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2024.10.04-13.46.05:570][472]LogSavePackage: Moving '../../../../../../Unreal Projects/CampusNavigation/Saved/MainLevel5EFAA59B486D6AB9E8C735BAD78191D8.tmp' to '../../../../../../Unreal Projects/CampusNavigation/Content/Level/MainLevel.umap'
+[2024.10.04-13.46.05:573][472]LogFileHelpers: Saving map 'MainLevel' took 0.135
+[2024.10.04-13.46.05:593][472]AssetCheck: New page: Asset Save: MainLevel
+[2024.10.04-13.46.05:593][472]LogContentValidation: Display: Validating World /Game/Level/MainLevel.MainLevel
+[2024.10.04-13.46.06:143][505]LogSlate: Window 'MainLevel' being destroyed
+[2024.10.04-13.46.06:153][505]LogSlate: Window 'MainLevel' being destroyed
+[2024.10.04-13.46.06:160][505]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.10.04-13.46.06:160][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.04-13.46.15:351][ 32]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/CB_ClickableComponent.CB_ClickableComponent
+[2024.10.04-13.46.56:643][ 73]LogSlate: Window 'CB_ClickableComponent' being destroyed
+[2024.10.04-13.46.56:658][ 73]LogSlate: Window 'CB_ClickableComponent' being destroyed
+[2024.10.04-13.46.56:661][ 73]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.10.04-13.46.56:661][ 73]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.04-13.46.59:412][212]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Level/MainLevel.MainLevel:PersistentLevel.MainLevel
+[2024.10.04-13.47.01:193][285]BlueprintLog: New page: Compile MainLevel
+[2024.10.04-13.47.01:239][285]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2024.10.04-13.47.01:622][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainLevel" FILE="../../../../../../Unreal Projects/CampusNavigation/Content/Level/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.04-13.47.01:643][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.10.04-13.47.01:723][301]LogSavePackage: Moving '../../../../../../Unreal Projects/CampusNavigation/Saved/MainLevelCFABF42C4983EF582B854E8AFC3A712F.tmp' to '../../../../../../Unreal Projects/CampusNavigation/Content/Level/MainLevel.umap'
+[2024.10.04-13.47.01:726][301]LogFileHelpers: Saving map 'MainLevel' took 0.105
+[2024.10.04-13.47.01:761][301]AssetCheck: New page: Asset Save: MainLevel
+[2024.10.04-13.47.01:761][301]LogContentValidation: Display: Validating World /Game/Level/MainLevel.MainLevel
+[2024.10.04-13.47.36:878][165]BlueprintLog: New page: Compile MainLevel
+[2024.10.04-13.47.36:927][165]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2024.10.04-13.47.37:335][185]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainLevel" FILE="../../../../../../Unreal Projects/CampusNavigation/Content/Level/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.04-13.47.37:357][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.10.04-13.47.37:456][185]LogSavePackage: Moving '../../../../../../Unreal Projects/CampusNavigation/Saved/MainLevel42A7FF9649CD7568C891B98FDF1E9A21.tmp' to '../../../../../../Unreal Projects/CampusNavigation/Content/Level/MainLevel.umap'
+[2024.10.04-13.47.37:461][185]LogFileHelpers: Saving map 'MainLevel' took 0.126
+[2024.10.04-13.47.37:485][185]AssetCheck: New page: Asset Save: MainLevel
+[2024.10.04-13.47.37:485][185]LogContentValidation: Display: Validating World /Game/Level/MainLevel.MainLevel
+[2024.10.04-13.49.54:358][783]BlueprintLog: New page: Compile MainLevel
+[2024.10.04-13.49.54:393][783]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.10.04-13.49.54:924][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainLevel" FILE="../../../../../../Unreal Projects/CampusNavigation/Content/Level/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.04-13.49.54:944][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.10.04-13.49.55:016][805]LogSavePackage: Moving '../../../../../../Unreal Projects/CampusNavigation/Saved/MainLevelF2F478C8491EF16375357C86C4B05C10.tmp' to '../../../../../../Unreal Projects/CampusNavigation/Content/Level/MainLevel.umap'
+[2024.10.04-13.49.55:020][805]LogFileHelpers: Saving map 'MainLevel' took 0.096
+[2024.10.04-13.49.55:038][805]AssetCheck: New page: Asset Save: MainLevel
+[2024.10.04-13.49.55:038][805]LogContentValidation: Display: Validating World /Game/Level/MainLevel.MainLevel
+[2024.10.04-13.49.56:490][885]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2024.10.04-13.49.56:500][885]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.04-13.49.56:500][885]PIE: New page: PIE session: MainLevel (Oct 5, 2024, 5:49:56 AM)
+[2024.10.04-13.49.56:501][885]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2024.10.04-13.49.56:502][885]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2024.10.04-13.49.56:502][885]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MainLevel
+[2024.10.04-13.49.56:516][885]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013275s)
+[2024.10.04-13.49.56:516][885]LogAIModule: Creating AISystem for world MainLevel
+[2024.10.04-13.49.56:517][885]LogPlayLevel: PIE: World Init took: (0.001256s)
+[2024.10.04-13.49.56:517][885]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MainLevel.MainLevel to /Game/Level/UEDPIE_0_MainLevel.MainLevel (0.014699s)
+[2024.10.04-13.49.56:538][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.10.04-13.49.56:538][885]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.10.04-13.49.56:538][885]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.04-13.49.56:538][885]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.04-13.49.56:538][885]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.04-13.49.56:539][885]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.04-13.49.56:539][885]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.04-13.49.56:539][885]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.04-13.49.56:539][885]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.04-13.49.56:539][885]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.04-13.49.56:539][885]LogAudio: Display: Using built-in audio occlusion.
+[2024.10.04-13.49.56:539][885]LogAudioMixer: Display: Initializing audio mixer.
+[2024.10.04-13.49.56:544][885]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.04-13.49.56:544][885]LogAudioMixer: Display: 1: FrontRight
+[2024.10.04-13.49.56:567][885]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.10.04-13.49.56:567][885]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.04-13.49.56:567][885]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.04-13.49.56:567][885]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.04-13.49.56:568][885]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.10.04-13.49.56:568][885]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.10.04-13.49.56:568][885]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.10.04-13.49.56:582][885]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.10.04-13.49.56:582][885]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.10.04-13.49.56:582][885]LogInit: FAudioDevice initialized.
+[2024.10.04-13.49.56:582][885]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainLevel'.
+[2024.10.04-13.49.56:647][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.04-13.49.56:647][885]LogLoad: Game class is 'CampusNavGameMode_C'
+[2024.10.04-13.49.56:652][885]LogWorld: Bringing World /Game/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2024.10.04-21.49.56
+[2024.10.04-13.49.56:652][885]LogWorld: Bringing up level for play took: 0.002955
+[2024.10.04-13.49.56:652][885]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2024.10.04-13.49.56:664][885]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2024.10.04-13.49.56:670][885]LogBlueprintUserMessages: [CB_Clickable] fsdfsdfsdf
+[2024.10.04-13.49.56:670][885]LogTemp: Error: MySQLCloseConnection: Connection is valid but Server does no respond!
+[2024.10.04-13.49.56:670][885]LogBlueprintUserMessages: [CB_Clickable] fail to close
+[2024.10.04-13.49.56:672][885]LogBlueprintUserMessages: [CB_Clickable] Denise
+[2024.10.04-13.49.56:672][885]LogTemp: Error: MySQLCloseConnection: Connection is valid but Server does no respond!
+[2024.10.04-13.49.56:672][885]LogBlueprintUserMessages: [CB_Clickable] fail to close
+[2024.10.04-13.49.56:693][885]PIE: Server logged in
+[2024.10.04-13.49.56:694][885]PIE: Play in editor total start time 0.2 seconds.
+[2024.10.04-13.49.59:890][ 29]LogSlate: Window 'CampusNavigation Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.10.04-13.49.59:919][ 29]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MainLevel
+[2024.10.04-13.49.59:919][ 29]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2024.10.04-13.49.59:920][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.04-13.49.59:930][ 29]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.04-13.49.59:942][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.04-13.49.59:963][ 29]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.04-13.49.59:964][ 29]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.04-13.50.00:008][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2024.10.04-13.50.00:034][ 30]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2024.10.04-13.50.01:928][135]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/CB_ClickableComponent.CB_ClickableComponent
+[2024.10.04-13.50.05:424][304]BlueprintLog: New page: Compile CB_ClickableComponent
+[2024.10.04-13.50.05:473][304]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2024.10.04-13.50.05:862][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/CB_ClickableComponent" FILE="../../../../../../Unreal Projects/CampusNavigation/Content/Blueprint/CB_ClickableComponent.uasset" SILENT=true
+[2024.10.04-13.50.05:891][321]LogSavePackage: Moving '../../../../../../Unreal Projects/CampusNavigation/Saved/CB_ClickableComponent6A417D954029717C6FDB158721F8D0DD.tmp' to '../../../../../../Unreal Projects/CampusNavigation/Content/Blueprint/CB_ClickableComponent.uasset'
+[2024.10.04-13.50.05:920][321]AssetCheck: New page: Asset Save: CB_ClickableComponent
+[2024.10.04-13.50.05:920][321]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/CB_ClickableComponent.CB_ClickableComponent
+[2024.10.04-13.50.07:556][410]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2024.10.04-13.50.07:564][410]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.04-13.50.07:564][410]PIE: New page: PIE session: MainLevel (Oct 5, 2024, 5:50:07 AM)
+[2024.10.04-13.50.07:564][410]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MainLevel
+[2024.10.04-13.50.07:580][410]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016044s)
+[2024.10.04-13.50.07:581][410]LogAIModule: Creating AISystem for world MainLevel
+[2024.10.04-13.50.07:581][410]LogPlayLevel: PIE: World Init took: (0.001021s)
+[2024.10.04-13.50.07:581][410]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MainLevel.MainLevel to /Game/Level/UEDPIE_0_MainLevel.MainLevel (0.017230s)
+[2024.10.04-13.50.07:611][410]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2024.10.04-13.50.07:612][410]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.10.04-13.50.07:612][410]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.04-13.50.07:612][410]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.04-13.50.07:612][410]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.04-13.50.07:612][410]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.04-13.50.07:612][410]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.04-13.50.07:612][410]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.04-13.50.07:612][410]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.04-13.50.07:612][410]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.04-13.50.07:613][410]LogAudio: Display: Using built-in audio occlusion.
+[2024.10.04-13.50.07:613][410]LogAudioMixer: Display: Initializing audio mixer.
+[2024.10.04-13.50.07:618][410]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.04-13.50.07:618][410]LogAudioMixer: Display: 1: FrontRight
+[2024.10.04-13.50.07:640][410]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.10.04-13.50.07:640][410]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.04-13.50.07:640][410]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.04-13.50.07:640][410]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.04-13.50.07:641][410]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.10.04-13.50.07:641][410]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.10.04-13.50.07:641][410]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.10.04-13.50.07:654][410]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.10.04-13.50.07:654][410]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.10.04-13.50.07:654][410]LogInit: FAudioDevice initialized.
+[2024.10.04-13.50.07:654][410]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainLevel'.
+[2024.10.04-13.50.07:705][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.04-13.50.07:705][410]LogLoad: Game class is 'CampusNavGameMode_C'
+[2024.10.04-13.50.07:710][410]LogWorld: Bringing World /Game/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2024.10.04-21.50.07
+[2024.10.04-13.50.07:710][410]LogWorld: Bringing up level for play took: 0.003201
+[2024.10.04-13.50.07:710][410]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2024.10.04-13.50.07:719][410]PIE: Server logged in
+[2024.10.04-13.50.07:723][410]PIE: Play in editor total start time 0.162 seconds.
+[2024.10.04-13.50.12:787][709]LogSlate: Window 'CampusNavigation Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.10.04-13.50.12:808][709]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MainLevel
+[2024.10.04-13.50.12:808][709]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2024.10.04-13.50.12:809][709]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.04-13.50.12:819][709]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.04-13.50.12:833][709]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.04-13.50.12:865][709]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.04-13.50.12:866][709]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.04-13.50.12:866][709]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.04-13.50.12:888][709]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2024.10.04-13.50.12:952][710]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2024.10.04-13.50.32:842][832]LogEditorTransaction: Undo Delete current selection
+[2024.10.04-13.50.34:251][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainLevel" FILE="../../../../../../Unreal Projects/CampusNavigation/Content/Level/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.04-13.50.34:286][891]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2024.10.04-13.50.34:371][891]LogSavePackage: Moving '../../../../../../Unreal Projects/CampusNavigation/Saved/MainLevel3D4D0F12420CE3F125432ABA2117D655.tmp' to '../../../../../../Unreal Projects/CampusNavigation/Content/Level/MainLevel.umap'
+[2024.10.04-13.50.34:376][891]LogFileHelpers: Saving map 'MainLevel' took 0.126
+[2024.10.04-13.50.34:400][891]AssetCheck: New page: Asset Save: MainLevel
+[2024.10.04-13.50.34:400][891]LogContentValidation: Display: Validating World /Game/Level/MainLevel.MainLevel
+[2024.10.04-13.50.35:027][927]BlueprintLog: New page: Compile MainLevel
+[2024.10.04-13.50.35:083][927]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2024.10.04-13.50.35:520][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainLevel" FILE="../../../../../../Unreal Projects/CampusNavigation/Content/Level/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.04-13.50.35:549][946]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2024.10.04-13.50.35:624][946]LogSavePackage: Moving '../../../../../../Unreal Projects/CampusNavigation/Saved/MainLevel54AF9200492765DB98289AACFEC3E02F.tmp' to '../../../../../../Unreal Projects/CampusNavigation/Content/Level/MainLevel.umap'
+[2024.10.04-13.50.35:628][946]LogFileHelpers: Saving map 'MainLevel' took 0.108
+[2024.10.04-13.50.35:655][946]AssetCheck: New page: Asset Save: MainLevel
+[2024.10.04-13.50.35:655][946]LogContentValidation: Display: Validating World /Game/Level/MainLevel.MainLevel
+[2024.10.04-13.54.08:779][321]LogSlate: Window 'Delete Variable' being destroyed
+[2024.10.04-13.57.18:089][879]BlueprintLog: New page: Compile MainLevel
+[2024.10.04-13.57.18:093][879]LogBlueprint: Error: [AssetLog] C:\Unreal Projects\CampusNavigation\Content\Level\MainLevel.umap: [Compiler] Could not find a function named "ConnectToDatabase" in 'MainLevel_C'.
+Make sure 'MainLevel_C' has been compiled for  Connect to Database
+[2024.10.04-13.57.18:143][879]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2024.10.04-13.57.18:555][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainLevel" FILE="../../../../../../Unreal Projects/CampusNavigation/Content/Level/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.04-13.57.18:584][898]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2024.10.04-13.57.18:652][898]LogSavePackage: Moving '../../../../../../Unreal Projects/CampusNavigation/Saved/MainLevelB25023094F359E407AE721B9315B59AD.tmp' to '../../../../../../Unreal Projects/CampusNavigation/Content/Level/MainLevel.umap'
+[2024.10.04-13.57.18:656][898]LogFileHelpers: Saving map 'MainLevel' took 0.101
+[2024.10.04-13.57.18:681][898]AssetCheck: New page: Asset Save: MainLevel
+[2024.10.04-13.57.18:681][898]LogContentValidation: Display: Validating World /Game/Level/MainLevel.MainLevel
+[2024.10.04-13.58.25:020][396]BlueprintLog: New page: Compile MainLevel
+[2024.10.04-13.58.25:068][396]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2024.10.04-13.58.25:399][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainLevel" FILE="../../../../../../Unreal Projects/CampusNavigation/Content/Level/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.04-13.58.25:426][412]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2024.10.04-13.58.25:500][412]LogSavePackage: Moving '../../../../../../Unreal Projects/CampusNavigation/Saved/MainLevel6F252120466A41910109DDB767475CDD.tmp' to '../../../../../../Unreal Projects/CampusNavigation/Content/Level/MainLevel.umap'
+[2024.10.04-13.58.25:503][412]LogFileHelpers: Saving map 'MainLevel' took 0.105
+[2024.10.04-13.58.25:539][412]AssetCheck: New page: Asset Save: MainLevel
+[2024.10.04-13.58.25:539][412]LogContentValidation: Display: Validating World /Game/Level/MainLevel.MainLevel
+[2024.10.04-13.58.26:246][451]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2024.10.04-13.58.26:258][451]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.04-13.58.26:258][451]PIE: New page: PIE session: MainLevel (Oct 5, 2024, 5:58:26 AM)
+[2024.10.04-13.58.26:258][451]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MainLevel
+[2024.10.04-13.58.26:279][451]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020421s)
+[2024.10.04-13.58.26:280][451]LogAIModule: Creating AISystem for world MainLevel
+[2024.10.04-13.58.26:280][451]LogPlayLevel: PIE: World Init took: (0.001849s)
+[2024.10.04-13.58.26:280][451]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MainLevel.MainLevel to /Game/Level/UEDPIE_0_MainLevel.MainLevel (0.022687s)
+[2024.10.04-13.58.26:310][451]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2024.10.04-13.58.26:311][451]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.10.04-13.58.26:311][451]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.04-13.58.26:311][451]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.04-13.58.26:311][451]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.04-13.58.26:311][451]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.04-13.58.26:311][451]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.04-13.58.26:311][451]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.04-13.58.26:311][451]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.04-13.58.26:311][451]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.04-13.58.26:312][451]LogAudio: Display: Using built-in audio occlusion.
+[2024.10.04-13.58.26:312][451]LogAudioMixer: Display: Initializing audio mixer.
+[2024.10.04-13.58.26:318][451]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.04-13.58.26:318][451]LogAudioMixer: Display: 1: FrontRight
+[2024.10.04-13.58.26:348][451]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.10.04-13.58.26:349][451]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.04-13.58.26:349][451]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.04-13.58.26:349][451]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.04-13.58.26:349][451]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.10.04-13.58.26:349][451]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.10.04-13.58.26:349][451]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.10.04-13.58.26:367][451]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.10.04-13.58.26:367][451]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.10.04-13.58.26:367][451]LogInit: FAudioDevice initialized.
+[2024.10.04-13.58.26:367][451]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainLevel'.
+[2024.10.04-13.58.26:422][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.04-13.58.26:422][451]LogLoad: Game class is 'CampusNavGameMode_C'
+[2024.10.04-13.58.26:425][451]LogWorld: Bringing World /Game/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2024.10.04-21.58.26
+[2024.10.04-13.58.26:425][451]LogWorld: Bringing up level for play took: 0.002117
+[2024.10.04-13.58.26:425][451]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2024.10.04-13.58.26:430][451]LogBlueprintUserMessages: [MainLevel_C_10] Hello
+[2024.10.04-13.58.26:435][451]PIE: Server logged in
+[2024.10.04-13.58.26:440][451]PIE: Play in editor total start time 0.186 seconds.
+[2024.10.04-13.58.28:070][544]LogSlate: Window 'CampusNavigation Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.10.04-13.58.28:092][544]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MainLevel
+[2024.10.04-13.58.28:092][544]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2024.10.04-13.58.28:093][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.04-13.58.28:103][544]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.04-13.58.28:117][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.04-13.58.28:146][544]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.04-13.58.28:146][544]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.04-13.58.28:146][544]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.04-13.58.28:170][544]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2024.10.04-13.58.28:231][545]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2024.10.04-13.58.51:035][873]BlueprintLog: New page: Compile MainLevel
+[2024.10.04-13.58.51:083][873]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2024.10.04-13.58.51:400][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainLevel" FILE="../../../../../../Unreal Projects/CampusNavigation/Content/Level/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.04-13.58.51:429][888]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2024.10.04-13.58.51:499][888]LogSavePackage: Moving '../../../../../../Unreal Projects/CampusNavigation/Saved/MainLevel6C5784EC43827E5D317298902A5E4653.tmp' to '../../../../../../Unreal Projects/CampusNavigation/Content/Level/MainLevel.umap'
+[2024.10.04-13.58.51:503][888]LogFileHelpers: Saving map 'MainLevel' took 0.104
+[2024.10.04-13.58.51:525][888]AssetCheck: New page: Asset Save: MainLevel
+[2024.10.04-13.58.51:525][888]LogContentValidation: Display: Validating World /Game/Level/MainLevel.MainLevel
+[2024.10.04-13.58.52:040][917]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2024.10.04-13.58.52:052][917]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.04-13.58.52:052][917]PIE: New page: PIE session: MainLevel (Oct 5, 2024, 5:58:52 AM)
+[2024.10.04-13.58.52:052][917]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MainLevel
+[2024.10.04-13.58.52:073][917]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021158s)
+[2024.10.04-13.58.52:074][917]LogAIModule: Creating AISystem for world MainLevel
+[2024.10.04-13.58.52:075][917]LogPlayLevel: PIE: World Init took: (0.001928s)
+[2024.10.04-13.58.52:075][917]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MainLevel.MainLevel to /Game/Level/UEDPIE_0_MainLevel.MainLevel (0.023308s)
+[2024.10.04-13.58.52:101][917]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2024.10.04-13.58.52:101][917]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.10.04-13.58.52:103][917]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.04-13.58.52:103][917]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.04-13.58.52:103][917]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.04-13.58.52:103][917]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.04-13.58.52:103][917]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.04-13.58.52:103][917]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.04-13.58.52:103][917]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.04-13.58.52:103][917]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.04-13.58.52:103][917]LogAudio: Display: Using built-in audio occlusion.
+[2024.10.04-13.58.52:103][917]LogAudioMixer: Display: Initializing audio mixer.
+[2024.10.04-13.58.52:108][917]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.04-13.58.52:108][917]LogAudioMixer: Display: 1: FrontRight
+[2024.10.04-13.58.52:129][917]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.10.04-13.58.52:129][917]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.04-13.58.52:129][917]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.04-13.58.52:129][917]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.04-13.58.52:130][917]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.10.04-13.58.52:130][917]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.10.04-13.58.52:130][917]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.10.04-13.58.52:142][917]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.10.04-13.58.52:142][917]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.10.04-13.58.52:142][917]LogInit: FAudioDevice initialized.
+[2024.10.04-13.58.52:142][917]LogAudio: Display: Audio Device (ID: 5) registered with world 'MainLevel'.
+[2024.10.04-13.58.52:191][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.04-13.58.52:191][917]LogLoad: Game class is 'CampusNavGameMode_C'
+[2024.10.04-13.58.52:194][917]LogWorld: Bringing World /Game/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2024.10.04-21.58.52
+[2024.10.04-13.58.52:194][917]LogWorld: Bringing up level for play took: 0.002245
+[2024.10.04-13.58.52:194][917]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2024.10.04-13.58.52:201][917]LogBlueprintUserMessages: [MainLevel_C_11] Successfully connected to database!
+[2024.10.04-13.58.52:204][917]PIE: Server logged in
+[2024.10.04-13.58.52:208][917]PIE: Play in editor total start time 0.162 seconds.
+[2024.10.04-13.58.54:203][ 31]LogSlate: Window 'CampusNavigation Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.10.04-13.58.54:225][ 31]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MainLevel
+[2024.10.04-13.58.54:258][ 31]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2024.10.04-13.58.54:260][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.04-13.58.54:272][ 31]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.04-13.58.54:288][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.04-13.58.54:315][ 31]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.04-13.58.54:317][ 31]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.04-13.58.54:340][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2024.10.04-13.58.54:371][ 32]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2024.10.04-13.59.42:538][686]BlueprintLog: New page: Compile MainLevel
+[2024.10.04-13.59.42:586][686]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2024.10.04-13.59.43:071][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainLevel" FILE="../../../../../../Unreal Projects/CampusNavigation/Content/Level/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.04-13.59.43:099][708]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2024.10.04-13.59.43:167][708]LogSavePackage: Moving '../../../../../../Unreal Projects/CampusNavigation/Saved/MainLevel7FC43A7F4DDA9176A0EAA5AFD87985EE.tmp' to '../../../../../../Unreal Projects/CampusNavigation/Content/Level/MainLevel.umap'
+[2024.10.04-13.59.43:172][708]LogFileHelpers: Saving map 'MainLevel' took 0.102
+[2024.10.04-13.59.43:192][708]AssetCheck: New page: Asset Save: MainLevel
+[2024.10.04-13.59.43:192][708]LogContentValidation: Display: Validating World /Game/Level/MainLevel.MainLevel
+[2024.10.04-14.00.36:937][321]LogSlate: Window 'CB_ClickableComponent' being destroyed
+[2024.10.04-14.00.36:954][321]LogSlate: Window 'CB_ClickableComponent' being destroyed
+[2024.10.04-14.00.36:958][321]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.10.04-14.00.36:958][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.04-14.00.37:007][321]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.10.04-14.00.37:007][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.04-14.00.39:148][436]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/ProjectFunctiions.ProjectFunctiions
+[2024.10.04-14.01.17:136][553]BlueprintLog: New page: Compile ProjectFunctiions
+[2024.10.04-14.01.17:187][553]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2024.10.04-14.01.17:630][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/ProjectFunctiions" FILE="../../../../../../Unreal Projects/CampusNavigation/Content/Blueprint/ProjectFunctiions.uasset" SILENT=true
+[2024.10.04-14.01.17:634][575]LogSavePackage: Moving '../../../../../../Unreal Projects/CampusNavigation/Saved/ProjectFunctiionsB90A275D40F8DC0820128187640A3F84.tmp' to '../../../../../../Unreal Projects/CampusNavigation/Content/Blueprint/ProjectFunctiions.uasset'
+[2024.10.04-14.01.17:682][575]AssetCheck: New page: Asset Save: ProjectFunctiions
+[2024.10.04-14.01.17:682][575]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/ProjectFunctiions.ProjectFunctiions
+[2024.10.04-14.01.20:487][733]LogSlate: Window 'ProjectFunctiions' being destroyed
+[2024.10.04-14.01.20:496][733]LogSlate: Window 'ProjectFunctiions' being destroyed
+[2024.10.04-14.01.20:499][733]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.10.04-14.01.20:499][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.04-14.01.26:184][ 39]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Level/MainLevel.MainLevel:PersistentLevel.MainLevel
+[2024.10.04-14.01.58:985][766]BlueprintLog: New page: Compile MainLevel
+[2024.10.04-14.01.59:054][766]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2024.10.04-14.01.59:509][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainLevel" FILE="../../../../../../Unreal Projects/CampusNavigation/Content/Level/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.04-14.01.59:527][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.10.04-14.01.59:609][786]LogSavePackage: Moving '../../../../../../Unreal Projects/CampusNavigation/Saved/MainLevel11142CE94F7B94554A297F97802260F9.tmp' to '../../../../../../Unreal Projects/CampusNavigation/Content/Level/MainLevel.umap'
+[2024.10.04-14.01.59:614][786]LogFileHelpers: Saving map 'MainLevel' took 0.106
+[2024.10.04-14.01.59:630][786]AssetCheck: New page: Asset Save: MainLevel
+[2024.10.04-14.01.59:630][786]LogContentValidation: Display: Validating World /Game/Level/MainLevel.MainLevel
+[2024.10.04-14.02.01:475][888]LogSlate: Window 'MainLevel' being destroyed
+[2024.10.04-14.02.01:480][888]LogSlate: Window 'MainLevel' being destroyed
+[2024.10.04-14.02.01:483][888]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.10.04-14.02.01:483][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.04-14.02.03:150][971]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/ProjectFunctiions.ProjectFunctiions
+[2024.10.04-14.02.15:469][600]BlueprintLog: New page: Compile ProjectFunctiions
+[2024.10.04-14.02.15:494][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.10.04-14.02.15:902][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/ProjectFunctiions" FILE="../../../../../../Unreal Projects/CampusNavigation/Content/Blueprint/ProjectFunctiions.uasset" SILENT=true
+[2024.10.04-14.02.15:905][620]LogSavePackage: Moving '../../../../../../Unreal Projects/CampusNavigation/Saved/ProjectFunctiionsA92D20764D6B45982255309D16034E4E.tmp' to '../../../../../../Unreal Projects/CampusNavigation/Content/Blueprint/ProjectFunctiions.uasset'
+[2024.10.04-14.02.15:925][620]AssetCheck: New page: Asset Save: ProjectFunctiions
+[2024.10.04-14.02.15:925][620]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/ProjectFunctiions.ProjectFunctiions
+[2024.10.04-14.02.19:112][787]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Level/MainLevel.MainLevel:PersistentLevel.MainLevel
+[2024.10.04-14.02.36:086][694]BlueprintLog: New page: Compile ProjectFunctiions
+[2024.10.04-14.02.36:119][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2024.10.04-14.02.36:533][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/ProjectFunctiions" FILE="../../../../../../Unreal Projects/CampusNavigation/Content/Blueprint/ProjectFunctiions.uasset" SILENT=true
+[2024.10.04-14.02.36:535][714]LogSavePackage: Moving '../../../../../../Unreal Projects/CampusNavigation/Saved/ProjectFunctiions85AA2F0243E9A7CB9BCC08AA5E19316A.tmp' to '../../../../../../Unreal Projects/CampusNavigation/Content/Blueprint/ProjectFunctiions.uasset'
+[2024.10.04-14.02.36:567][714]AssetCheck: New page: Asset Save: ProjectFunctiions
+[2024.10.04-14.02.36:567][714]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/ProjectFunctiions.ProjectFunctiions
+[2024.10.04-14.03.39:733][452]BlueprintLog: New page: Compile ProjectFunctiions
+[2024.10.04-14.03.39:769][452]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2024.10.04-14.03.40:310][475]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/ProjectFunctiions" FILE="../../../../../../Unreal Projects/CampusNavigation/Content/Blueprint/ProjectFunctiions.uasset" SILENT=true
+[2024.10.04-14.03.40:316][475]LogSavePackage: Moving '../../../../../../Unreal Projects/CampusNavigation/Saved/ProjectFunctiions74B9E1414D88891E26C101AC155613B1.tmp' to '../../../../../../Unreal Projects/CampusNavigation/Content/Blueprint/ProjectFunctiions.uasset'
+[2024.10.04-14.03.40:344][475]AssetCheck: New page: Asset Save: ProjectFunctiions
+[2024.10.04-14.03.40:344][475]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/ProjectFunctiions.ProjectFunctiions
+[2024.10.04-14.05.04:768][904]BlueprintLog: New page: Compile ProjectFunctiions
+[2024.10.04-14.05.04:809][904]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2024.10.04-14.05.05:147][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/ProjectFunctiions" FILE="../../../../../../Unreal Projects/CampusNavigation/Content/Blueprint/ProjectFunctiions.uasset" SILENT=true
+[2024.10.04-14.05.05:152][921]LogSavePackage: Moving '../../../../../../Unreal Projects/CampusNavigation/Saved/ProjectFunctiions066DF21348304A0D46A35080AE6E96E4.tmp' to '../../../../../../Unreal Projects/CampusNavigation/Content/Blueprint/ProjectFunctiions.uasset'
+[2024.10.04-14.05.05:273][921]AssetCheck: New page: Asset Save: ProjectFunctiions
+[2024.10.04-14.05.05:274][921]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/ProjectFunctiions.ProjectFunctiions
+[2024.10.04-14.05.08:428][115]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.10.04-14.05.08:428][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.04-14.06.48:876][ 19]BlueprintLog: New page: Compile MainLevel
+[2024.10.04-14.06.48:920][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2024.10.04-14.06.49:328][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainLevel" FILE="../../../../../../Unreal Projects/CampusNavigation/Content/Level/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.04-14.06.49:349][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.10.04-14.06.49:434][ 44]LogSavePackage: Moving '../../../../../../Unreal Projects/CampusNavigation/Saved/MainLevelE9A1A57C4F5BFC9AB7EF39867C24B34F.tmp' to '../../../../../../Unreal Projects/CampusNavigation/Content/Level/MainLevel.umap'
+[2024.10.04-14.06.49:438][ 44]LogFileHelpers: Saving map 'MainLevel' took 0.111
+[2024.10.04-14.06.49:468][ 44]AssetCheck: New page: Asset Save: MainLevel
+[2024.10.04-14.06.49:468][ 44]LogContentValidation: Display: Validating World /Game/Level/MainLevel.MainLevel
+[2024.10.04-14.06.51:527][195]LogSlate: Window 'MainLevel' being destroyed
+[2024.10.04-14.06.51:549][195]LogSlate: Window 'MainLevel' being destroyed
+[2024.10.04-14.06.51:552][195]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.10.04-14.06.51:552][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.04-14.06.54:563][437]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/CB_RetrieveComponent.CB_RetrieveComponent
+[2024.10.04-14.06.57:041][557]LogSlate: Window 'CB_RetrieveComponent' being destroyed
+[2024.10.04-14.06.57:059][557]LogSlate: Window 'CB_RetrieveComponent' being destroyed
+[2024.10.04-14.06.57:063][557]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.10.04-14.06.57:063][557]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.04-14.06.58:205][630]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/CB_ClickableComponent.CB_ClickableComponent
+[2024.10.04-14.07.01:770][830]LogSlate: Window 'CB_ClickableComponent' being destroyed
+[2024.10.04-14.07.01:790][830]LogSlate: Window 'CB_ClickableComponent' being destroyed
+[2024.10.04-14.07.01:793][830]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.10.04-14.07.01:793][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
