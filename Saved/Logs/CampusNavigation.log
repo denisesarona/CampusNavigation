@@ -1353,3 +1353,211 @@ Make sure 'MainLevel_C' has been compiled for  Connect to Database
 [2024.10.04-14.07.01:790][830]LogSlate: Window 'CB_ClickableComponent' being destroyed
 [2024.10.04-14.07.01:793][830]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
 [2024.10.04-14.07.01:793][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.04-14.19.09:026][463]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/Pages/AboutUsPage.AboutUsPage
+[2024.10.04-14.20.02:261][118]LogEditorTransaction: Undo Set Vector Property
+[2024.10.04-14.20.02:652][125]Cmd: TRANSACTION UNDO
+[2024.10.04-14.20.02:652][125]LogEditorTransaction: Undo Edit Draw As
+[2024.10.04-14.20.28:950][585]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2024.10.04-14.20.28:952][585]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/MainLevel' took 0.070
+[2024.10.04-14.20.28:953][585]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Widgets/Pages/AboutUsPage] ([2] browsable assets)...
+[2024.10.04-14.20.28:953][585]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/Pages/AboutUsPage]
+[2024.10.04-14.20.28:979][585]LogSavePackage: Moving '../../../../../../Unreal Projects/CampusNavigation/Saved/AboutUsPage_Auto132BF6E734116386DFE1C918A52A5A291.tmp' to '../../../../../../Unreal Projects/CampusNavigation/Saved/Autosaves/Game/Widgets/Pages/AboutUsPage_Auto1.uasset'
+[2024.10.04-14.20.28:980][585]LogFileHelpers: Auto-saving content packages took 0.028
+[2024.10.04-14.20.31:078][715]BlueprintLog: New page: Compile AboutUsPage
+[2024.10.04-14.20.31:136][715]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2024.10.04-14.20.31:603][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Pages/AboutUsPage" FILE="../../../../../../Unreal Projects/CampusNavigation/Content/Widgets/Pages/AboutUsPage.uasset" SILENT=true
+[2024.10.04-14.20.31:628][743]LogSavePackage: Moving '../../../../../../Unreal Projects/CampusNavigation/Saved/AboutUsPageBB7F40A14D8068A301755682D2CBB344.tmp' to '../../../../../../Unreal Projects/CampusNavigation/Content/Widgets/Pages/AboutUsPage.uasset'
+[2024.10.04-14.20.31:661][743]AssetCheck: New page: Asset Save: AboutUsPage
+[2024.10.04-14.20.31:661][743]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Pages/AboutUsPage.AboutUsPage
+[2024.10.04-14.26.11:405][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainLevel" FILE="../../../../../../Unreal Projects/CampusNavigation/Content/Level/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.04-14.26.11:439][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2024.10.04-14.26.11:517][ 18]LogSavePackage: Moving '../../../../../../Unreal Projects/CampusNavigation/Saved/MainLevel94CC9EFD478CCB937679BA8CF47C90C3.tmp' to '../../../../../../Unreal Projects/CampusNavigation/Content/Level/MainLevel.umap'
+[2024.10.04-14.26.11:522][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainLevel_BuiltData" FILE="../../../../../../Unreal Projects/CampusNavigation/Content/Level/MainLevel_BuiltData.uasset" SILENT=true
+[2024.10.04-14.26.11:699][ 18]LogSavePackage: Moving '../../../../../../Unreal Projects/CampusNavigation/Saved/MainLevel_BuiltData1F985865459B3DB455BCEA88D9E2F381.tmp' to '../../../../../../Unreal Projects/CampusNavigation/Content/Level/MainLevel_BuiltData.uasset'
+[2024.10.04-14.26.11:725][ 18]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.04-14.26.11:725][ 18]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/MainLevel_BuiltData.MainLevel_BuiltData
+[2024.10.04-14.26.11:725][ 18]LogContentValidation: Display: Validating World /Game/Level/MainLevel.MainLevel
+[2024.10.04-14.26.12:825][105]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2024.10.04-14.26.12:835][105]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.10.04-14.26.12:837][105]LogPlayLevel: [PlayLevel] Compiling AboutUsPage before play...
+[2024.10.04-14.26.12:920][105]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2024.10.04-14.26.13:938][105]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.018 s
+[2024.10.04-14.26.13:938][105]LogOutputDevice: Error: === Handled ensure: ===
+[2024.10.04-14.26.13:938][105]LogOutputDevice: Error: 
+[2024.10.04-14.26.13:938][105]LogOutputDevice: Error: Ensure condition failed: !IsGarbageCollecting() [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/UMG/Private/Slate/SObjectWidget.cpp] [Line: 43]
+[2024.10.04-14.26.13:939][105]LogOutputDevice: Error: SObjectWidget for 'WB_BaseButton_C /Engine/Transient.World_11:AboutUsPage_C_5.WidgetTree.HomeBtn' destroyed while collecting garbage.  This can lead to multiple GCs being required to cleanup the object.  Possible causes might be,
+[2024.10.04-14.26.13:939][105]LogOutputDevice: Error: 1) ReleaseSlateResources not being implemented for the owner of this pointer.
+[2024.10.04-14.26.13:939][105]LogOutputDevice: Error: 2) You may just be holding onto some slate pointers on an actor that don't get reset until the actor is Garbage Collected.  You should avoid doing this, and instead reset those references when the actor is Destroyed.
+[2024.10.04-14.26.13:939][105]LogOutputDevice: Error: Stack: 
+[2024.10.04-14.26.13:939][105]LogOutputDevice: Error: [Callstack] 0x00007ffd20b8db1e UE4Editor-UMG.dll!UnknownFunction []
+[2024.10.04-14.26.13:939][105]LogOutputDevice: Error: [Callstack] 0x00007ffd209d9972 UE4Editor-UMG.dll!UnknownFunction []
+[2024.10.04-14.26.13:939][105]LogOutputDevice: Error: [Callstack] 0x00007ffd2998a711 UE4Editor-SlateCore.dll!UnknownFunction []
+[2024.10.04-14.26.13:939][105]LogOutputDevice: Error: [Callstack] 0x00007ffd2990e34c UE4Editor-SlateCore.dll!UnknownFunction []
+[2024.10.04-14.26.13:939][105]LogOutputDevice: Error: [Callstack] 0x00007ffd2990170a UE4Editor-SlateCore.dll!UnknownFunction []
+[2024.10.04-14.26.13:939][105]LogOutputDevice: Error: [Callstack] 0x00007ffd2998a711 UE4Editor-SlateCore.dll!UnknownFunction []
+[2024.10.04-14.26.13:939][105]LogOutputDevice: Error: [Callstack] 0x00007ffd2990a0e6 UE4Editor-SlateCore.dll!UnknownFunction []
+[2024.10.04-14.26.13:939][105]LogOutputDevice: Error: [Callstack] 0x00007ffd29901a1a UE4Editor-SlateCore.dll!UnknownFunction []
+[2024.10.04-14.26.13:939][105]LogOutputDevice: Error: [Callstack] 0x00007ffd2998a711 UE4Editor-SlateCore.dll!UnknownFunction []
+[2024.10.04-14.26.13:939][105]LogOutputDevice: Error: [Callstack] 0x00007ffd2990a0e6 UE4Editor-SlateCore.dll!UnknownFunction []
+[2024.10.04-14.26.13:939][105]LogOutputDevice: Error: [Callstack] 0x00007ffd29901a1a UE4Editor-SlateCore.dll!UnknownFunction []
+[2024.10.04-14.26.13:939][105]LogOutputDevice: Error: [Callstack] 0x00007ffd2998a711 UE4Editor-SlateCore.dll!UnknownFunction []
+[2024.10.04-14.26.13:939][105]LogOutputDevice: Error: [Callstack] 0x00007ffd2990a0e6 UE4Editor-SlateCore.dll!UnknownFunction []
+[2024.10.04-14.26.13:939][105]LogOutputDevice: Error: [Callstack] 0x00007ffd29901a1a UE4Editor-SlateCore.dll!UnknownFunction []
+[2024.10.04-14.26.13:939][105]LogOutputDevice: Error: [Callstack] 0x00007ffd2998a711 UE4Editor-SlateCore.dll!UnknownFunction []
+[2024.10.04-14.26.13:939][105]LogOutputDevice: Error: [Callstack] 0x00007ffd227a861e UE4Editor-Slate.dll!UnknownFunction []
+[2024.10.04-14.26.13:939][105]LogOutputDevice: Error: [Callstack] 0x00007ffd22795c42 UE4Editor-Slate.dll!UnknownFunction []
+[2024.10.04-14.26.13:939][105]LogOutputDevice: Error: [Callstack] 0x00007ffd2279a829 UE4Editor-Slate.dll!UnknownFunction []
+[2024.10.04-14.26.13:939][105]LogOutputDevice: Error: [Callstack] 0x00007ffd20aae872 UE4Editor-UMG.dll!UnknownFunction []
+[2024.10.04-14.26.13:939][105]LogOutputDevice: Error: [Callstack] 0x00007ffd2b609bc8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2024.10.04-14.26.13:939][105]LogOutputDevice: Error: [Callstack] 0x00007ffd2b5e88d8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2024.10.04-14.26.13:939][105]LogOutputDevice: Error: [Callstack] 0x00007ffd2b569ec1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2024.10.04-14.26.13:939][105]LogOutputDevice: Error: [Callstack] 0x00007ffd2b568e8c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2024.10.04-14.26.13:939][105]LogOutputDevice: Error: [Callstack] 0x00007ffd217e0738 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2024.10.04-14.26.13:939][105]LogOutputDevice: Error: [Callstack] 0x00007ffd217e7f6e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2024.10.04-14.26.13:939][105]LogOutputDevice: Error: [Callstack] 0x00007ffd217ec1d1 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2024.10.04-14.26.13:939][105]LogOutputDevice: Error: [Callstack] 0x00007ffd217eba98 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2024.10.04-14.26.13:939][105]LogOutputDevice: Error: [Callstack] 0x00007ffd21248c38 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2024.10.04-14.26.13:939][105]LogOutputDevice: Error: [Callstack] 0x00007ffd21b650e6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2024.10.04-14.26.13:939][105]LogOutputDevice: Error: [Callstack] 0x00007ff6a0669bc2 UE4Editor.exe!UnknownFunction []
+[2024.10.04-14.26.13:939][105]LogOutputDevice: Error: [Callstack] 0x00007ff6a068117c UE4Editor.exe!UnknownFunction []
+[2024.10.04-14.26.13:939][105]LogOutputDevice: Error: [Callstack] 0x00007ff6a068125a UE4Editor.exe!UnknownFunction []
+[2024.10.04-14.26.13:939][105]LogOutputDevice: Error: [Callstack] 0x00007ff6a06952bd UE4Editor.exe!UnknownFunction []
+[2024.10.04-14.26.13:939][105]LogOutputDevice: Error: [Callstack] 0x00007ff6a0697fea UE4Editor.exe!UnknownFunction []
+[2024.10.04-14.26.13:939][105]LogOutputDevice: Error: [Callstack] 0x00007ffd71e5257d KERNEL32.DLL!UnknownFunction []
+[2024.10.04-14.26.13:939][105]LogOutputDevice: Error: [Callstack] 0x00007ffd72f2af08 ntdll.dll!UnknownFunction []
+[2024.10.04-14.26.13:939][105]LogOutputDevice: Error: 
+[2024.10.04-14.26.13:947][105]LogStats:                SubmitErrorReport -  0.000 s
+[2024.10.04-14.26.16:176][105]LogStats:                    SendNewReport -  2.230 s
+[2024.10.04-14.26.16:176][105]LogStats:             FDebug::EnsureFailed -  3.257 s
+[2024.10.04-14.26.16:184][105]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2024.10.04-14.26.16:185][105]LogPlayLevel: PlayLevel: Blueprint regeneration took 3350 ms (1 blueprints)
+[2024.10.04-14.26.16:185][105]PIE: New page: PIE session: MainLevel (Oct 5, 2024, 6:26:16 AM)
+[2024.10.04-14.26.16:185][105]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MainLevel
+[2024.10.04-14.26.16:206][105]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020282s)
+[2024.10.04-14.26.16:207][105]LogAIModule: Creating AISystem for world MainLevel
+[2024.10.04-14.26.16:207][105]LogPlayLevel: PIE: World Init took: (0.001645s)
+[2024.10.04-14.26.16:207][105]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MainLevel.MainLevel to /Game/Level/UEDPIE_0_MainLevel.MainLevel (0.022143s)
+[2024.10.04-14.26.16:233][105]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2024.10.04-14.26.16:233][105]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.10.04-14.26.16:233][105]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.04-14.26.16:233][105]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.04-14.26.16:233][105]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.04-14.26.16:233][105]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.04-14.26.16:233][105]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.04-14.26.16:233][105]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.04-14.26.16:233][105]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.04-14.26.16:233][105]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.04-14.26.16:234][105]LogAudio: Display: Using built-in audio occlusion.
+[2024.10.04-14.26.16:234][105]LogAudioMixer: Display: Initializing audio mixer.
+[2024.10.04-14.26.16:241][105]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.04-14.26.16:241][105]LogAudioMixer: Display: 1: FrontRight
+[2024.10.04-14.26.16:269][105]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.10.04-14.26.16:269][105]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.04-14.26.16:269][105]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.04-14.26.16:269][105]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.04-14.26.16:271][105]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.10.04-14.26.16:271][105]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.10.04-14.26.16:271][105]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.10.04-14.26.16:287][105]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.10.04-14.26.16:287][105]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.10.04-14.26.16:287][105]LogInit: FAudioDevice initialized.
+[2024.10.04-14.26.16:287][105]LogAudio: Display: Audio Device (ID: 6) registered with world 'MainLevel'.
+[2024.10.04-14.26.16:343][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.04-14.26.16:343][105]LogLoad: Game class is 'CampusNavGameMode_C'
+[2024.10.04-14.26.16:347][105]LogWorld: Bringing World /Game/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2024.10.04-22.26.16
+[2024.10.04-14.26.16:347][105]LogWorld: Bringing up level for play took: 0.002715
+[2024.10.04-14.26.16:347][105]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2024.10.04-14.26.16:352][105]LogBlueprintUserMessages: [MainLevel_C_14] Successfully connected to database!
+[2024.10.04-14.26.16:358][105]PIE: Server logged in
+[2024.10.04-14.26.16:360][105]PIE: Play in editor total start time 3.531 seconds.
+[2024.10.04-14.26.19:223][423]LogSlate: Window 'CampusNavigation Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.10.04-14.26.19:244][423]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MainLevel
+[2024.10.04-14.26.19:244][423]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2024.10.04-14.26.19:245][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.04-14.26.19:254][423]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.04-14.26.19:269][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.04-14.26.19:293][423]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.04-14.26.19:294][423]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.04-14.26.19:320][423]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2024.10.04-14.26.19:359][424]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.10.04-14.26.32:433][496]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/Pages/BuildingPage.BuildingPage
+[2024.10.04-14.26.35:099][624]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.10.04-14.26.35:099][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.04-14.26.35:108][624]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.10.04-14.26.35:108][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.04-14.27.18:334][ 33]LogEditorTransaction: Undo Edit Image
+[2024.10.04-14.27.18:783][ 41]LogEditorTransaction: Undo Edit Image
+[2024.10.04-14.27.46:185][169]LogEditorTransaction: Undo Edit Image
+[2024.10.04-14.29.15:819][259]LogEditorTransaction: Undo Edit Y
+[2024.10.04-14.29.16:817][295]LogEditorTransaction: Undo Edit X
+[2024.10.04-14.29.17:049][302]LogEditorTransaction: Undo Edit Left
+[2024.10.04-14.29.17:343][313]LogEditorTransaction: Undo Edit Top
+[2024.10.04-14.29.17:594][322]LogEditorTransaction: Undo Edit Margin
+[2024.10.04-14.29.17:920][336]LogEditorTransaction: Undo Edit Margin
+[2024.10.04-14.29.18:288][355]LogEditorTransaction: Undo Edit Margin
+[2024.10.04-14.29.18:633][373]LogEditorTransaction: Undo Edit Margin
+[2024.10.04-14.29.19:007][390]LogEditorTransaction: Undo Edit Margin
+[2024.10.04-14.29.19:247][401]LogEditorTransaction: Undo Edit Margin
+[2024.10.04-14.29.19:453][410]LogEditorTransaction: Undo Edit Margin
+[2024.10.04-14.29.19:630][417]LogEditorTransaction: Undo Edit Margin
+[2024.10.04-14.29.19:807][423]LogEditorTransaction: Undo Edit Image
+[2024.10.04-14.29.19:953][428]LogEditorTransaction: Undo Edit Image
+[2024.10.04-14.29.20:113][434]LogEditorTransaction: Undo Edit Margin
+[2024.10.04-14.29.20:299][440]LogEditorTransaction: Undo Edit Draw As
+[2024.10.04-14.30.13:951][267]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/UI_Materials/M_RoundedCorners.M_RoundedCorners
+[2024.10.04-14.30.13:963][267]LogMaterial: Display: Missing cached shader map for material M_RoundedCorners, compiling. 
+[2024.10.04-14.30.14:025][267]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2024.10.04-14.30.14:025][267]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2024.10.04-14.30.14:025][267]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2024.10.04-14.30.14:025][267]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2024.10.04-14.30.14:403][267]LogMaterial: Display: Missing cached shader map for material M_RoundedCorners, compiling. 
+[2024.10.04-14.30.14:422][267]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2024.10.04-14.30.14:773][278]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2024.10.04-14.30.15:009][285]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2024.10.04-14.30.15:203][296]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2024.10.04-14.30.15:639][320]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2024.10.04-14.30.16:126][346]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2024.10.04-14.30.16:126][346]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2024.10.04-14.30.16:213][351]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2024.10.04-14.30.16:411][365]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2024.10.04-14.30.16:426][366]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2024.10.04-14.30.16:752][385]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2024.10.04-14.30.16:924][395]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2024.10.04-14.30.17:157][408]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2024.10.04-14.30.17:204][411]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2024.10.04-14.30.17:516][428]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2024.10.04-14.30.17:557][430]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2024.10.04-14.30.17:557][430]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2024.10.04-14.30.17:734][440]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2024.10.04-14.30.17:770][442]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2024.10.04-14.30.17:910][451]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2024.10.04-14.30.18:178][468]MaterialEditorStats: Default UI Pixel Shader: 45 instructions
+[2024.10.04-14.30.18:178][468]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2024.10.04-14.30.18:178][468]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2024.10.04-14.30.18:178][468]MaterialEditorStats: Texture samplers: 4/16
+[2024.10.04-14.30.18:178][468]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.04-14.30.21:837][702]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.10.04-14.30.21:837][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.04-14.30.46:333][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainLevel" FILE="../../../../../../Unreal Projects/CampusNavigation/Content/Level/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.04-14.30.46:384][170]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2024.10.04-14.30.46:477][170]LogSavePackage: Moving '../../../../../../Unreal Projects/CampusNavigation/Saved/MainLevel1C3699D548495D51F67998A4E164F30E.tmp' to '../../../../../../Unreal Projects/CampusNavigation/Content/Level/MainLevel.umap'
+[2024.10.04-14.30.46:483][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainLevel_BuiltData" FILE="../../../../../../Unreal Projects/CampusNavigation/Content/Level/MainLevel_BuiltData.uasset" SILENT=true
+[2024.10.04-14.30.46:616][170]LogSavePackage: Moving '../../../../../../Unreal Projects/CampusNavigation/Saved/MainLevel_BuiltData84BE5D314DB266A95A794D8A942ED73E.tmp' to '../../../../../../Unreal Projects/CampusNavigation/Content/Level/MainLevel_BuiltData.uasset'
+[2024.10.04-14.30.46:644][170]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.04-14.30.46:644][170]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/MainLevel_BuiltData.MainLevel_BuiltData
+[2024.10.04-14.30.46:644][170]LogContentValidation: Display: Validating World /Game/Level/MainLevel.MainLevel
+[2024.10.04-14.32.32:782][139]BlueprintLog: New page: Compile AboutUsPage
+[2024.10.04-14.32.32:828][139]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2024.10.04-14.32.33:484][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Pages/AboutUsPage" FILE="../../../../../../Unreal Projects/CampusNavigation/Content/Widgets/Pages/AboutUsPage.uasset" SILENT=true
+[2024.10.04-14.32.33:511][168]LogSavePackage: Moving '../../../../../../Unreal Projects/CampusNavigation/Saved/AboutUsPage1C71F0C8414BA4C49C1C03860637EA1C.tmp' to '../../../../../../Unreal Projects/CampusNavigation/Content/Widgets/Pages/AboutUsPage.uasset'
+[2024.10.04-14.32.33:537][168]AssetCheck: New page: Asset Save: AboutUsPage
+[2024.10.04-14.32.33:537][168]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Pages/AboutUsPage.AboutUsPage
+[2024.10.04-14.32.36:469][379]LogSlate: Window 'AboutUsPage' being destroyed
+[2024.10.04-14.32.36:496][379]LogSlate: Window 'AboutUsPage' being destroyed
+[2024.10.04-14.32.36:511][379]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.10.04-14.32.36:511][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.04-14.32.36:524][379]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.10.04-14.32.36:524][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
